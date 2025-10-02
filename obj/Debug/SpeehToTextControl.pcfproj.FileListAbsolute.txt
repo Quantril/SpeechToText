@@ -1,0 +1,2 @@
+E:\PCFComponents\SpeehToTextControl\obj\Debug\SpeehToTextControl.pcfproj.AssemblyReference.cache
+E:\PCFComponents\SpeehToTextControl\obj\Debug\SpeehToTextControl.pcfproj.CoreCompileInputs.cache
